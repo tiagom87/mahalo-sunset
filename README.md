@@ -2,6 +2,8 @@
 
 This is a Next.js template for creating a "sunset" or closure page for apps that are shutting down. It provides a professional and graceful way to inform users about the end of service.
 
+You can see an example of this template in action at [https://mahalo.so](https://mahalo.so).
+
 ## Features
 
 - Responsive design with a beautiful background gradient
